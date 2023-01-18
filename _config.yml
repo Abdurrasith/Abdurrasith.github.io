@@ -1,5 +1,4 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-hacker
+#remote_theme: aregsar/theme-msdark
+theme: jekyll-theme-cayman
+title: aregsar
+description: Areg Sarkissians Blog
